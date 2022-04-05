@@ -60,7 +60,7 @@ nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
     font-size: 18px;
-    color: #f11fbd;
+    color: #0D0D0D;
     padding-left: 80px;
 }
 
@@ -74,7 +74,7 @@ header h2 {
     font-family: 'Lora', serif;
     font-size: 58px;
     line-height: 80px;
-    color: #ff6fdb;
+    color: #0D0D0D;
     padding: 20px 0 20px 25px;
 }
 
@@ -179,7 +179,7 @@ header h2 span {
 
 #contact a {
     text-decoration: none;
-    color: #ff6fdb;
+    color: #0D0D0D;
     font-weight: bold;
     font-size: 28px;
 }
